@@ -1,0 +1,19 @@
+# Node files
+# ------------
+node_modules
+
+# Distributed files
+# ------------
+/public/assets/*
+
+# System files
+# ------------
+Icon
+.DS_Store
+
+# Editor config files
+# ------------
+.vscode
+.nova
+.idea
+.env
