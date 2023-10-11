@@ -30,6 +30,8 @@ mix.options({
     files: [
       process.env.MIX_DIST + '/js/**/*.js',
       process.env.MIX_DIST + '/css/**/*.css',
+      'public/site/modules/**/*.php',
+      'public/site/templates/**/*.php',
       'public/index.php'
     ],
   });
